@@ -1,0 +1,4 @@
+# AI Camera
+allow platform_app sensors_panel_prop:file r_file_perms;
+# Google camera
+allow platform_app app_data_file:file execute;
